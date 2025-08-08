@@ -33,7 +33,6 @@
 
 ## 📈 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SaiyafJadoon&show_icons=true&theme=tokyonight" alt="Abu's GitHub stats" />
   <img src="https://streak-stats.demolab.com?user=SaiyafJadoon&theme=tokyonight&hide_border=false" alt="streak stats"/>
 </p>
 
